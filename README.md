@@ -1,0 +1,4 @@
+emony
+=====
+
+Emony Coin
